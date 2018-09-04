@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://trendtoy.com/index.html</loc>
+    <lastmod>2018-09-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://trendtoy.com/images/%D0%BC%D0%B0%D0%B3%D0%BC%D0%B0.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://trendtoy.com/images/logo.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://trendtoy.com/images/%D1%82%D0%B5%D0%BB%D0%B5%D1%84%D0%BE%D0%BD.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://trendtoy.com/images/%D0%BC%D0%B0%D0%B3%D0%BC%D0%B0-crop-u314.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://trendtoy.com/images/%D0%BC%D0%B0%D0%B3%D0%BC%D0%B0-crop-u3142.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://trendtoy.com/images/%D0%BC%D0%B0%D0%B3%D0%BC%D0%B0-crop-u3143.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://trendtoy.com/images/%D0%BC%D0%B0%D0%B3%D0%BC%D0%B0-crop-u3144.jpg</image:loc>
+    </image:image>
+  </url>
+</urlset>

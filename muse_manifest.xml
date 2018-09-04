@@ -1,0 +1,192 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="trendtoy.com" resolutions="1x" timestamp="1536077665876">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="3960953086" ref="index"/>
+    <file name="nomq_index.css" crc="485546908" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="340535759" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="4286661555" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index"/>
+    <file name="require.js" crc="7928878" ref="index"/>
+    <file name="webpro.js" crc="4059564322" ref="index"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="index"/>
+    <file name="touchswipe.js" crc="4075097462" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="527716135" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="магма.jpg" crc="122911070" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="элемент 1.png" crc="4084324588" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u308-4.png" crc="137942814" ref="index"/>
+    <file name="u302-5.png" crc="4288883054" ref="index"/>
+    <file name="u305-6.png" crc="3816684249" ref="index"/>
+    <file name="символ.png" crc="175156550" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="фон.jpg" crc="3836171646" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo.png" crc="4073245357" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u125-4.png" crc="453389968" ref="index"/>
+    <file name="u129-4.png" crc="3973009265" ref="index"/>
+    <file name="u134-4.png" crc="3895064432" ref="index"/>
+    <file name="u137-4.png" crc="3948771201" ref="index"/>
+    <file name="телефон.png" crc="306505237" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u140-4.png" crc="3875507101" ref="index"/>
+    <file name="u200-4.png" crc="3957180516" ref="index"/>
+    <file name="u215-4.png" crc="3782088669" ref="index"/>
+    <file name="u218-4.png" crc="70347650" ref="index"/>
+    <file name="u221-4.png" crc="69863513" ref="index"/>
+    <file name="u227-4.png" crc="198224165" ref="index"/>
+    <file name="scrolldown.gif" crc="24867677" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u5271-4.png" crc="4216587724" ref="index"/>
+    <file name="u4053-4.png" crc="4059773497" ref="index"/>
+    <file name="u308-42.png" crc="100745383" ref="index"/>
+    <file name="u302-52.png" crc="3875366627" ref="index"/>
+    <file name="u305-62.png" crc="4139564953" ref="index"/>
+    <file name="u5271-42.png" crc="3981684305" ref="index"/>
+    <file name="u200-42.png" crc="172160158" ref="index"/>
+    <file name="u215-42.png" crc="3782088669" ref="index"/>
+    <file name="u218-42.png" crc="70347650" ref="index"/>
+    <file name="u221-42.png" crc="69863513" ref="index"/>
+    <file name="u227-42.png" crc="91644920" ref="index"/>
+    <file name="u4053-42.png" crc="26903768" ref="index"/>
+    <file name="u125-42.png" crc="288177894" ref="index"/>
+    <file name="u129-42.png" crc="95367334" ref="index"/>
+    <file name="u134-42.png" crc="4287259654" ref="index"/>
+    <file name="u137-42.png" crc="155348797" ref="index"/>
+    <file name="u140-42.png" crc="4002686313" ref="index"/>
+    <file name="u308-43.png" crc="3981169710" ref="index"/>
+    <file name="u302-53.png" crc="309215294" ref="index"/>
+    <file name="u305-63.png" crc="1351365" ref="index"/>
+    <file name="фон-u1690-fr.jpg" crc="509314453" ref="index"/>
+    <file name="u125-43.png" crc="4021087025" ref="index"/>
+    <file name="u129-43.png" crc="3782770669" ref="index"/>
+    <file name="u134-43.png" crc="266807277" ref="index"/>
+    <file name="u137-43.png" crc="478438498" ref="index"/>
+    <file name="u140-43.png" crc="3961912239" ref="index"/>
+    <file name="u200-43.png" crc="3798544883" ref="index"/>
+    <file name="u215-43.png" crc="4026477030" ref="index"/>
+    <file name="u218-43.png" crc="4138191837" ref="index"/>
+    <file name="u221-43.png" crc="458326077" ref="index"/>
+    <file name="u227-43.png" crc="475719811" ref="index"/>
+    <file name="u5271-43.png" crc="16810095" ref="index"/>
+    <file name="u4053-43.png" crc="4196259505" ref="index"/>
+    <file name="u308-44.png" crc="500785009" ref="index"/>
+    <file name="символ-u326-fr.png" crc="377707106" ref="index"/>
+    <file name="u4053-44.png" crc="3849125214" ref="index"/>
+    <file name="u125-44.png" crc="4154818584" ref="index"/>
+    <file name="u129-44.png" crc="4044747601" ref="index"/>
+    <file name="u134-44.png" crc="203085208" ref="index"/>
+    <file name="u137-44.png" crc="4271602146" ref="index"/>
+    <file name="u140-44.png" crc="282944946" ref="index"/>
+    <file name="u200-44.png" crc="4138634866" ref="index"/>
+    <file name="u215-44.png" crc="3782088669" ref="index"/>
+    <file name="u218-44.png" crc="70347650" ref="index"/>
+    <file name="u221-44.png" crc="69863513" ref="index"/>
+    <file name="u227-44.png" crc="77298642" ref="index"/>
+    <file name="u302-54.png" crc="3976007669" ref="index"/>
+    <file name="u305-64.png" crc="39347498" ref="index"/>
+    <file name="u5271-44.png" crc="4137383369" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="u8064-4.png" crc="4168383112" ref="index"/>
+    <file name="u8079-4.png" crc="422834900" ref="index"/>
+    <file name="u8330-4.png" crc="3968393586" ref="index"/>
+    <file name="u8345-4.png" crc="490496978" ref="index"/>
+    <file name="u8360-4.png" crc="220548293" ref="index"/>
+    <file name="магма-crop-u314.jpg" crc="103782340" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u8360-42.png" crc="4041643371" ref="index"/>
+    <file name="u8345-42.png" crc="4283507059" ref="index"/>
+    <file name="u8330-42.png" crc="4286833961" ref="index"/>
+    <file name="u8064-42.png" crc="379737141" ref="index"/>
+    <file name="u8079-42.png" crc="3805791469" ref="index"/>
+    <file name="магма-crop-u3142.jpg" crc="212476258" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u8360-43.png" crc="4041643371" ref="index"/>
+    <file name="u8345-43.png" crc="304913443" ref="index"/>
+    <file name="u8330-43.png" crc="2588127" ref="index"/>
+    <file name="u8064-43.png" crc="284667372" ref="index"/>
+    <file name="u8079-43.png" crc="3880994133" ref="index"/>
+    <file name="магма-crop-u3143.jpg" crc="3979211950" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u8360-44.png" crc="6400969" ref="index"/>
+    <file name="u8345-44.png" crc="381569905" ref="index"/>
+    <file name="u8330-44.png" crc="503944886" ref="index"/>
+    <file name="u8064-44.png" crc="4270348638" ref="index"/>
+    <file name="u8079-44.png" crc="3843678935" ref="index"/>
+    <file name="u5271-45.png" crc="3830895942" ref="index"/>
+    <file name="u200-45.png" crc="156715583" ref="index"/>
+    <file name="u215-45.png" crc="186646807" ref="index"/>
+    <file name="u218-45.png" crc="212185021" ref="index"/>
+    <file name="u221-45.png" crc="4124103268" ref="index"/>
+    <file name="u227-45.png" crc="4142242550" ref="index"/>
+    <file name="u4053-45.png" crc="4262882989" ref="index"/>
+    <file name="u125-45.png" crc="29401484" ref="index"/>
+    <file name="u129-45.png" crc="4198343190" ref="index"/>
+    <file name="u134-45.png" crc="162150497" ref="index"/>
+    <file name="u137-45.png" crc="113133328" ref="index"/>
+    <file name="u140-45.png" crc="447289396" ref="index"/>
+    <file name="u8360-45.png" crc="4066747423" ref="index"/>
+    <file name="u8345-45.png" crc="450937214" ref="index"/>
+    <file name="u8330-45.png" crc="7060244" ref="index"/>
+    <file name="u8064-45.png" crc="318437190" ref="index"/>
+    <file name="u8079-45.png" crc="56437610" ref="index"/>
+    <file name="u308-45.png" crc="3992909357" ref="index"/>
+    <file name="магма-crop-u3144.jpg" crc="3936649399" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="элемент 1-u4215-fr.png" crc="3874904812" ref="index"/>
+    <file name="u302-55.png" crc="289273314" ref="index"/>
+    <file name="u305-65.png" crc="112165666" ref="index"/>
+    <file name="элемент 2.png" crc="3795732527" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="элемент 3.png" crc="3836698410" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="элемент 2-u8931-fr.png" crc="4268422742" ref="index"/>
+    <file name="элемент 2-u8931-fr2.png" crc="290078849" ref="index"/>
+    <file name="элемент 3-u8945-fr.png" crc="202111513" ref="index"/>
+    <file name="элемент 2-u8931-fr3.png" crc="401422490" ref="index"/>
+    <file name="элемент 3-u8945-fr2.png" crc="3982892404" ref="index"/>
+  </folder>
+  <file name="index.html" crc="4071567652" seo="true" mt="1536077637587" redirect="true"/>
+</manifest>
